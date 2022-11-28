@@ -1,0 +1,17 @@
+
+# Solution one:
+
+In general, it is not clear which approach is better
+– Some experiments indicate stripes win for cooccurrence matrix computation
+• Pairs and stripes are special cases of shapes for 
+covering the entire matrix
+– Could use sub-stripes, or partition matrix horizontally 
+and vertically into more square-like shapes etc.
+• Can also be applied to higher-dimensional arrays
+• Will see interesting version of this idea for joins
+
+
+
+# Solution two:
+
+yes
